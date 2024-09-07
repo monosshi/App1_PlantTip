@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PlantTip</string>
+    <string name="click_to_explore_indoor_plants">Click to Explore Indoor Plants!</string>
+    <string name="welcome_to_indoortip">Welcome to IndoorTip!</string>
+    <string name="money_plant">Money Plant</string>
+    <string name="coin_plant">Coin plant</string>
+    <string name="spider_plant">Spider plant</string>
+    <string name="snake_plant">Snake plant</string>
+    <string name="click_the_images_to_know">Click the images to know</string>
+    <string name="click_the_images_for_tips">Click The Images For Tips</string>
+    <string name="welcome_to_planttip">Welcome to PlantTip!</string>
+    <string name="get_started">Get Started</string>
+    <string name="back">Back</string>
+</resources>
